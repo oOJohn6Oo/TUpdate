@@ -1,5 +1,5 @@
 ## T系列——版本更新TUpdate
-A project for android update. 一个安卓端版本更新的项目。弹窗样式，DownloadManager下载，进度条，更新内容可滑动。
+A project for android update. 一个安卓端版本更新的项目。Android版本更新小钢炮。弹窗样式，DownloadManager下载，进度条，更新内容可滑动。
 
 ## 用例
 
