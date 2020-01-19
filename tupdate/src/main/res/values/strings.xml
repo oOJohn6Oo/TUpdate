@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSomething</string>
+    <string name="t_update_download_pause">下载已暂停</string>
+    <string name="t_update_download_error">下载失败</string>
+    <string name="t_update_now">立即安装</string>
+    <string name="t_update_module_error">未检测到系统内建的下载模块，请到官网下载。</string>
+</resources>
